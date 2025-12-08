@@ -1,0 +1,44 @@
+.navbar-brand {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+
+}
+
+.navbar-brand:hover {
+    text-decoration: underline;
+}
+
+.navbar {
+    background-color:black;
+    border-bottom: 5px solid;
+}
+
+.container {
+  margin: auto;
+  width: 500px;
+  overflow: auto;
+  padding: 3rem 2rem;
+}
+
+.error {
+    color: orangered
+}
+
+.item-list {
+    background-color: #f4f4f4;
+
+    cursor: pointer; ;
+
+}
+
+li:hover {
+    background-color: #d4ebf7;
+}
+
+#kaverilista2 {
+    list-style-type: square;
+    padding-left: 1rem;
+
+
+}
