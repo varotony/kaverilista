@@ -32,13 +32,18 @@
 
 }
 
+li::marker {
+    color: black;
+}
+
 li:hover {
-    background-color: #d4ebf7;
+    background-color: black;
+    color: white
 }
 
 #kaverilista2 {
     list-style-type: square;
-    padding-left: 1rem;
+    padding-left: 0rem;
 
 
 }
